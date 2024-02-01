@@ -2,7 +2,7 @@
 - This is my Database Project at uni
 - This document provides a guide for the implementation of a database project consisting of multiple phases.
 
-- Table of Contents
+# Table of Contents
 - Phase 1: ER-Model Creation
 - Phase 2: Transformation to a Relational Model
 - Phase 3: Database Implementation in SQL
